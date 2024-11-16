@@ -30,9 +30,9 @@ def ambitions():
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radhikaa-chauhan&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratibha-Maurya23&theme=default)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa-chauhan&theme=vue&hide_border=true)	
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pratibha-Maurya23&theme=vue&hide_border=true)	
  <br/>
 </div> 
 
