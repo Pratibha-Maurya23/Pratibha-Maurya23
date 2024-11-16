@@ -8,7 +8,7 @@
   ## Who Am I ?
  ```python
   class WhoAmI:
-    User = 'Radhika Chauhan'
+    User = 'Pratibha Maurya'
     College = "Abes Engineering College "
     Technology = "Still Learning"
     Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
@@ -17,13 +17,13 @@ Hobbies = ['Music',
  'Painting',
 'Sci-Fi Movies']
 def getCity():
-		return Hajipur_Bulandshahr_India()
+		return Vanaras_India()
 	
 def ambitions():
 		return BecomeSoftwareEngineering()
  def achievements():
                   Technical_Coordinator():
-               return Salaah_The_Mentor_Community
+               return Ecell
 	
  ```
 
@@ -43,23 +43,21 @@ def ambitions():
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/radhika-chauhan-2b4821296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img alt="Linkedin" title="Radhika Chauhan Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Radhikaa-chauhan"><img alt="Github" title="Radhika Chauhan Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.instagram.com/_radhikaa5/"><img alt="Instagram" title="Radhika Chauhan Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://x.com/Radhikacha05"><img alt="Twitter" title="Radhika Chauhan Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
-
+  <a href="https://www.linkedin.com/in/pratibha-maurya20/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img alt="Linkedin" title="Pratibha Maurya Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Pratibha-Maurya23"><img alt="Github" title="Pratibha Maurya Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.instagram.com/pratibha_20_19/"><img alt="Instagram" title="Pratibha Maurya Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ## Profile insights
 <p align="center">
     <a href="https://github.com/">
-        <img src="https://komarev.com/ghpvc/?username=Radhikaa-chauhan" alt="Radhikaa-chauhan" />
+        <img src="https://komarev.com/ghpvc/?username=Pratibha-Maurya23" alt="Pratibha Maurya" />
     </a>
-    <a href="https://github.com/Radhikaa-chauhan">
-    <img height="20" src="https://img.shields.io/github/followers/Radhikaa-chauhan?label=follow&logo=github" />
+    <a href="https://github.com/Pratibha-Maurya23/">
+    <img height="20" src="https://img.shields.io/github/followers/Pratibha-Maurya23?label=follow&logo=github" />
 	</a>
-	 <a href="https://github.com/Radhikaa-chauhan">
-        <img height="20" src="https://img.shields.io/github/stars/Radhikaa-chauhan?label=stars&logo=github" />
+	 <a href="https://github.com/Pratibha-Maurya23">
+        <img height="20" src="https://img.shields.io/github/stars/Pratibha-Maurya23?label=stars&logo=github" />
 	</a>
 </p>
 
